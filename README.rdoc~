@@ -1,0 +1,6 @@
+The controller has two parts:
+1. Fetching and layering the profile picture (that's been commented)
+2. Cover-pic part
+
+Root just redirect it to the required location
+<tt>rake doc:app</tt>.

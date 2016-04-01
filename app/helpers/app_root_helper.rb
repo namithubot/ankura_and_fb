@@ -1,0 +1,2 @@
+module AppRootHelper
+end
