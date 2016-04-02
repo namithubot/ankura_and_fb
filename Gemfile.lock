@@ -99,6 +99,7 @@ GEM
     omniauth-oauth2 (1.4.0)
       oauth2 (~> 1.0)
       omniauth (~> 1.2)
+    pg (0.18.4)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -175,6 +176,7 @@ DEPENDENCIES
   jquery-rails
   koala (~> 2.2)
   omniauth-facebook
+  pg
   rails (= 4.2.5.1)
   rmagick (~> 2.13.0)
   sass-rails (~> 5.0)
