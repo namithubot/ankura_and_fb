@@ -37,6 +37,10 @@ class AppRootController < ApplicationController
   #job done! back to facebook!
   redirect_to @redirection_path 
  end
+
+ def index
+   redirect_to "/auth/facebook"
+ end
  
  
  def destroy

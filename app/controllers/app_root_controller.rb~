@@ -1,7 +1,6 @@
 require 'open-uri'
 class AppRootController < ApplicationController
  def create
-  @curr_user=1234
   auth = auth_hash
   ap auth
 
